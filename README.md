@@ -5,3 +5,5 @@
 
 src：[firmware\src](firmware\src)  
 main：[firmware\src\main_d21.c](firmware\src\main_d21.c)
+
+Youtube連結：https://youtu.be/4EFxK3f7jHA
